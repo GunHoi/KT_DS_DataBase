@@ -1,5 +1,5 @@
-# KT DS JAVA 교육
-KT DS 웹 융합 어플리케이션 개발자 양성과정 JAVA 학습
+# KT DS DataBase 교육
+KT DS 웹 융합 어플리케이션 개발자 양성과정 DataBase 학습 (Oracle)
 
 <a href="https://www.notion.so/KT-DS-4081d15959b74370a75913fdef079d0a"><img src="https://img.shields.io/badge/Notion-010101?style=flat-square&logo=Notion&logoColor=white"/></a>
 ### `23.02.15 
