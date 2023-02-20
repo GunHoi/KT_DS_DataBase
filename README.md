@@ -8,3 +8,6 @@ KT DS 웹 융합 어플리케이션 개발자 양성과정 DataBase 학습 (Orac
  * E-R DIAGRAM을 직접 그려보기, E-R DIAGRAM을 보고 JOIN 실습
 ### `23.02.17
  * 외부 조인(LEFT OUTER JOIN), INLINE VIEW (INNER VIEW) 학습 및 실습
+### `23.02.20
+ * 재귀조인, Scala 쿼리, 다양한 select 함수에 대한 학습
+   + EXISTS, DECODE, CASE, NVL, LPAD, RPAD, TO_CHAR, TO_DATE, SUBSTR, LENGTH, TRIM, LTRIM, RTRIM, SYSDATE, ADD_MONTHS
