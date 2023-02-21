@@ -11,3 +11,5 @@ KT DS 웹 융합 어플리케이션 개발자 양성과정 DataBase 학습 (Orac
 ### `23.02.20
  * 재귀조인, Scala 쿼리, 다양한 select 함수에 대한 학습
    + EXISTS, DECODE, CASE, NVL, LPAD, RPAD, TO_CHAR, TO_DATE, SUBSTR, LENGTH, TRIM, LTRIM, RTRIM, SYSDATE, ADD_MONTHS
+### `23.02.21
+ * EXISTS, IN학습 및 이전내용 실습1
