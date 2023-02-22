@@ -13,3 +13,5 @@ KT DS 웹 융합 어플리케이션 개발자 양성과정 DataBase 학습 (Orac
    + EXISTS, DECODE, CASE, NVL, LPAD, RPAD, TO_CHAR, TO_DATE, SUBSTR, LENGTH, TRIM, LTRIM, RTRIM, SYSDATE, ADD_MONTHS
 ### `23.02.21
  * EXISTS, IN학습 및 이전내용 실습1
+### `23.02.22
+ * DB Query 복습 및 실습2
