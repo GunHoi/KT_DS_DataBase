@@ -15,3 +15,5 @@ KT DS 웹 융합 어플리케이션 개발자 양성과정 DataBase 학습 (Orac
  * EXISTS, IN학습 및 이전내용 실습1
 ### `23.02.22
  * DB Query 복습 및 실습2
+### `23.02.23
+ * DB Query 복습 및 실습3 + WITH, TRUNC, CARTESIAN PRODUCT 
