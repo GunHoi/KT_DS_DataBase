@@ -17,3 +17,5 @@ KT DS 웹 융합 어플리케이션 개발자 양성과정 DataBase 학습 (Orac
  * DB Query 복습 및 실습2
 ### `23.02.23
  * DB Query 복습 및 실습3 + WITH, TRUNC, CARTESIAN PRODUCT 
+### `23.02.27
+ * DB E-R DIAGRAM 설계 (https://www.goodgag.net)
