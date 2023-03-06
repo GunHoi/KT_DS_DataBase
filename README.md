@@ -21,3 +21,7 @@ KT DS 웹 융합 어플리케이션 개발자 양성과정 DataBase 학습 (Orac
  * DB E-R DIAGRAM 설계 (https://www.goodgag.net)
 ### `23.03.02
  * Table 생성, Data삽입, 무결성 확인, JDBC연동
+### `23.03.03
+ * https://github.com/GunHoi/KT_DS_JAVA/tree/master/good_gag GoodGAG DB를 Java와 연동(JDBC) 및 Java에서 data 받아오기
+### `23.03.06
+ * Naver Movie DB Table 설계 
