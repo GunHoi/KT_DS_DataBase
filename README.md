@@ -25,3 +25,5 @@ KT DS 웹 융합 어플리케이션 개발자 양성과정 DataBase 학습 (Orac
  * https://github.com/GunHoi/KT_DS_JAVA/tree/master/good_gag GoodGAG DB를 Java와 연동(JDBC) 및 Java에서 data 받아오기
 ### `23.03.06
  * Naver Movie DB Table 설계 
+### `23.03.07 
+ * 네이버 영화 Movie Table ER-Diagram 생성 및 Table 생성
