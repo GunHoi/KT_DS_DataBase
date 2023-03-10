@@ -27,3 +27,5 @@ KT DS 웹 융합 어플리케이션 개발자 양성과정 DataBase 학습 (Orac
  * Naver Movie DB Table 설계 
 ### `23.03.07 
  * 네이버 영화 Movie Table ER-Diagram 생성 및 Table 생성
+### `23.03.10
+ * https://github.com/GunHoi/KT_DS_JAVA/tree/master/naver_movie Naver Movie DB를 Java와 연동 및 Java에서 data select, insert, update, delete
